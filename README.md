@@ -1,6 +1,6 @@
-# To visit our live website:
+# To visit the live website:
 
-Open [https://neongala5.github.io/sharedWebsite/]
+Open [https://neongala5.github.io/CarlosMartinez/]
 
 # To publish to our live website use: 
 
