@@ -1,5 +1,4 @@
 import React from "react";
-import "./TemporaryDescription.css";
 
 const TemporaryDescription = () => {
     return (

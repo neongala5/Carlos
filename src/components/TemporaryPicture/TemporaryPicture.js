@@ -1,9 +1,8 @@
 import React from "react";
-import "./TemporaryPicture.css";
 
 const TemporaryPicture = () => {
     return (
-        <img src="https://www.anime-planet.com/images/characters/185588.jpg?t=1584362155" alt="none"></img>
+        <img style={{width: '50%'}} src="https://staticg.sportskeeda.com/editor/2022/06/8ea73-16544969041694.png" alt="none"></img>
     );
 }
 
